@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+}
+ul {
+  width: 70%;
+  margin: auto;
+}
+li {
+  list-style-type: none;
+  padding: 15px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  border: rgba(100,50,50,150) 12px solid;
+  border-radius: 500px;
+  color : white;
+}
+h1 {
+  font-family: 'Times New Roman';
+  color: white;
+}
+h4 {
+  font-family: 'Times New Roman';
+  color: white;
+}
